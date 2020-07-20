@@ -1,0 +1,9 @@
+{
+    "name": "copy-s3-file-to-dynamodb",
+    "description": "Copy files uploaded to S3 bucket to DynamoDB table",
+    "version": "1.0.0",
+    "author": "Alice Green",
+    "dependencies": {
+        "uuid": "^8.2.0"
+    }
+}
